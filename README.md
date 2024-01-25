@@ -38,9 +38,6 @@
 │   ├── move_area.cpython-310.pyc  
 │   ├── result.cpython-310.pyc  
 │   ├── title.cpython-310.pyc  
-│   ├── マップクラス化.cpython-310.pyc  
-│   ├── 色んなオブジェクト.cpython-310.pyc  
-│   └── 勇者を動かす化.cpython-310.pyc  
 ├── Area.py  
 ├── characters.py  
 ├── help.py  
