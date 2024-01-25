@@ -27,4 +27,28 @@
 ※ver3.10以下のものには3.10に追加されたmatch caseの標準モジュールが追加されていないため、実行結果がエラーとなります。実行する際にはバージョンの確認をして下さい。。    
      
 ## ディレクトリ構成
-
+.
+├── __pycache__
+│   ├── Area.cpython-310.pyc
+│   ├── characters.cpython-310.pyc
+│   ├── help.cpython-310.pyc
+│   ├── hero.cpython-310.pyc
+│   ├── item.cpython-310.pyc
+│   ├── kari_enemy_move.cpython-310.pyc
+│   ├── move_area.cpython-310.pyc
+│   ├── result.cpython-310.pyc
+│   ├── title.cpython-310.pyc
+│   ├── マップクラス化.cpython-310.pyc
+│   ├── 色んなオブジェクト.cpython-310.pyc
+│   └── 勇者を動かす化.cpython-310.pyc
+├── Area.py
+├── characters.py
+├── help.py
+├── hero.py
+├── item.py
+├── kari_enemy_move.py
+├── main.py
+├── move_area.py
+├── result.py
+├── status.py
+└── title.py
